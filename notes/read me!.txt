@@ -1,0 +1,10 @@
+change for title : "IT Asset Management System"
+
+Additional :
+ "Stack " 
+ "Deadpool"
+
+http://jsfiddle.net/t656N/1/
+https://www.sanwebe.com/2013/03/addremove-input-fields-dynamically-with-jquery
+
+proper "createset.php" implementation
